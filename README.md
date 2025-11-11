@@ -1,6 +1,6 @@
 ## Hello :) 
 
-I'm a student trying to start contributing to open-source. I'm currently working on building some basic websites to learn how to implement any ideas I have. I'm open to any advice and look forward to learning more. Thank you for visiting my profile 👋🏻
+I'm a student trying to start contributing to open-source. I'm currently working on building some basic websites to learn how to implement any ideas I have. I'm open to any advice and look forward to learning more. Goodbye esperanza 👋🏻
 
 <!--
 **gayathriabcde/gayathriabcde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
